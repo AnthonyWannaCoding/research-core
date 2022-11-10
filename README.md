@@ -1,1 +1,1 @@
-# research-core
+# search-core
